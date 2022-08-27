@@ -1,0 +1,5 @@
+# ninja log v5
+135	173	1655248285877596121	Project1	e34eff69c48444ff
+0	9	0	clean	3c8e6cc385ee00ba
+0	135	1655248285838580380	CMakeFiles/Project1.dir/Project1.cpp.o	cf5a0facf2567b65
+0	145	1655246300785945788	CMakeFiles/Project1.dir/main.cpp.o	7ac5a0794ced4ae3

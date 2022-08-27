@@ -1,0 +1,3 @@
+/Users/chieh-anchen/CLionProjects/Project1/cmake-build-debug-coverage/CMakeFiles/Project1.dir
+/Users/chieh-anchen/CLionProjects/Project1/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
+/Users/chieh-anchen/CLionProjects/Project1/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir
